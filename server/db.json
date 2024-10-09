@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vương",
+      "price": 123132,
+      "image": "11",
+      "quantity": 13131,
+      "createdDate": "2024-12-31"
+    },
+    {
+      "id": 2,
+      "name": "qưqeqwe",
+      "price": 1131313,
+      "image": "13131",
+      "quantity": 132,
+      "createdDate": "2024-12-13"
+    }
+  ]
+}
